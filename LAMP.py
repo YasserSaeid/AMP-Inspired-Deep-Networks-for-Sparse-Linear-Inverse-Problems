@@ -1,4 +1,4 @@
-%MIT LIC
+#MIT LIC
 
 import numpy as np
 import os
